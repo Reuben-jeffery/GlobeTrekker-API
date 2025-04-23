@@ -49,11 +49,9 @@ Step 1: Clone the Repo
 
 Step 2: Create a virtual environment
 
-```bash python3 -m venv api_env ```
+```python python3 -m venv api_env ```
 
 Step 3: Install dependencies
-
-bash
 
 ```bash pip install -r requirements.txt```
 
@@ -81,11 +79,10 @@ PUT /destinations/<id>
 DELETE /destinations/<id>
 
 Set request headers:
+
 You can also import your collection into Postman for quick testing.
 
-bash
-
-Content_Type: application?json
+```bash Content_Type: application?json ```
 
 🚀 Future Upgrades
 This project is actively being improved and maintained. Here are planned upgrades for future versions of the GlobeTrekker API:
@@ -149,12 +146,8 @@ This project is licensed under the MIT License.
 
 Reuben Jeffery Ofuafo
 
-Builtby CloudKnight 
+Builtby CodeRonin
 
-Connect  with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-
-
-
+Connect  with me on [LinkedIn](https://www.linkedin.com/in/reuben-jeffery-ofuafo-79bba5165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
